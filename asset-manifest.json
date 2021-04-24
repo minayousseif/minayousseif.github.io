@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.97510a68.chunk.css",
-    "main.js": "/static/js/main.69cd154a.chunk.js",
-    "main.js.map": "/static/js/main.69cd154a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.320f8ed3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.320f8ed3.js.map",
-    "static/css/2.d5628694.chunk.css": "/static/css/2.d5628694.chunk.css",
-    "static/js/2.868a5ea6.chunk.js": "/static/js/2.868a5ea6.chunk.js",
-    "static/js/2.868a5ea6.chunk.js.map": "/static/js/2.868a5ea6.chunk.js.map",
+    "main.css": "/static/css/main.2aa3bb80.chunk.css",
+    "main.js": "/static/js/main.63710dc3.chunk.js",
+    "main.js.map": "/static/js/main.63710dc3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f6ca991b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f6ca991b.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2554a169.chunk.js": "/static/js/2.2554a169.chunk.js",
+    "static/js/2.2554a169.chunk.js.map": "/static/js/2.2554a169.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1870f246b1b2f9b93848cd7de707a2d0.js": "/precache-manifest.1870f246b1b2f9b93848cd7de707a2d0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d5628694.chunk.css.map": "/static/css/2.d5628694.chunk.css.map",
-    "static/css/main.97510a68.chunk.css.map": "/static/css/main.97510a68.chunk.css.map",
-    "static/js/2.868a5ea6.chunk.js.LICENSE.txt": "/static/js/2.868a5ea6.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/header-bg.3f9772ae.jpg",
-    "static/media/my.jpg": "/static/media/my.0f7554d9.jpg"
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.2aa3bb80.chunk.css.map": "/static/css/main.2aa3bb80.chunk.css.map",
+    "static/js/2.2554a169.chunk.js.LICENSE.txt": "/static/js/2.2554a169.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/header-bg.4488c0c4.jpg",
+    "static/media/my.57cbc28d.jpg": "/static/media/my.57cbc28d.jpg",
+    "static/media/patent-icon.97094725.png": "/static/media/patent-icon.97094725.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.320f8ed3.js",
-    "static/css/2.d5628694.chunk.css",
-    "static/js/2.868a5ea6.chunk.js",
-    "static/css/main.97510a68.chunk.css",
-    "static/js/main.69cd154a.chunk.js"
+    "static/js/runtime-main.f6ca991b.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2554a169.chunk.js",
+    "static/css/main.2aa3bb80.chunk.css",
+    "static/js/main.63710dc3.chunk.js"
   ]
 }
